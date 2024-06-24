@@ -1,2 +1,2 @@
-# phpcourse
+# PHP Course
 Modern PHP Course
